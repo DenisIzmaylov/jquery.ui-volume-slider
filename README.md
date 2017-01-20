@@ -1,11 +1,12 @@
-jQuery UI Slider
-================
+jQuery UI Volume Slider
+=======================
 
-###Intro###
-Slider contol (like iOS) to configure a value in specified range
+# Intro
 
+Slider Contol (like iOS Volume Slider in native music player) to configure a value in the specified range.
 
-###How to install###
+# How to install
+
 1. Add to `bower.json` of your project:
 ```javascript
 {
@@ -46,6 +47,6 @@ Slider contol (like iOS) to configure a value in specified range
 4. You can also look example in `example.html`.
 
 
-###Todo###
+# TODO
 1. Fix destroy method
 2. Add transition for onOwnerClick/onTrackClick
