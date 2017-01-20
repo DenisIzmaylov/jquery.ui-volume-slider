@@ -1,0 +1,11 @@
+{
+  "name": "jquery.ui-slider",
+  "version": "1.0.0",
+  "main": [
+    "./css/jquery.ui-slider.css",
+    "./js/jquery.ui-slider.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
+}

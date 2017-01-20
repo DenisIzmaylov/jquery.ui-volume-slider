@@ -1,0 +1,12 @@
+{
+  "name": "jquery.ui-volume-slider",
+  "version": "1.0.0",
+  "main": [
+    "./css/jquery.ui-volume-slider.css",
+    "./js/jquery.ui-volume-slider.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0",
+    "jquery.ui-slider": "git@github.com:DenisIzmaylov/jquery.ui-slider.git"
+  }
+}
